@@ -3,12 +3,12 @@
 
 Autora-coordinadora M. Teresa Aliaga Vega
 
-###email:
+### email:
 aliagamaite@gmail.com
 
 <a href="" target="_blank"><img width="600" height="450" border="0" align="center" src="img/edubasica01.jpg  "/></a>
 
-##Comunicaciones y talleres del proyecto Amplificación Mecanoceptiva.
+## Comunicaciones y talleres del proyecto Amplificación Mecanoceptiva.
 
 ## [Prácticas con Arduino-EduBasica](https://edubasica.github.io/manual/index.html)
 
