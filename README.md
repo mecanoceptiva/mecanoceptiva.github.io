@@ -8,9 +8,9 @@ aliagamaite@gmail.com
 
 <a href="" target="_blank"><img width="225" height="250" border="0" align="center" src="img/esqueleto.jpg  "/></a>
 
-## Comunicaciones y talleres del proyecto Amplificación Mecanoceptiva.
+## Comunicaciones y talleres
 
-## [Prácticas con Arduino-EduBasica](https://edubasica.github.io/manual/index.html)
+### [Comunicación libre. Jornadas de Bajo Coste. Albacete, Julio 2017](https://github.com/leobotmanuel/MecanoAmplificador#comunicaci%C3%B3n-libre-jornadas-de-bajo-coste)
 
 ## [Proyectos Científicos-Tecnológicos](https://github.com/leobotmanuel/ProgramandoObjetosTecnologicos/blob/master/README.md#proyectos)<a href="" target="_blank"><img width="50" height="56" border="0" align="center" src="img/obrero.gif "/></a>
 
