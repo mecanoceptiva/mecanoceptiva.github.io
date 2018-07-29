@@ -3,8 +3,7 @@
 
 Autora-coordinadora M. Teresa Aliaga Vega
 
-### email:
-aliagamaite@gmail.com
+### email: ##aliagamaite@gmail.com
 
 <a href="" target="_blank"><img width="225" height="250" border="0" align="center" src="img/esqueleto.jpg  "/></a>
 
@@ -16,7 +15,3 @@ aliagamaite@gmail.com
 
 ### [Taller de Amplificación Mecanoceptiva. Jornadas Bajo Coste. Albacete, Julio 2018](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/TallerBajoCoste_Julio2018/README.md#taller-de-amplificaci%C3%B3n-mecanoceptiva-jornadas-de-bajo-coste)
 
-
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
