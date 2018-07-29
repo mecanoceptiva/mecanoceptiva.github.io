@@ -1,13 +1,13 @@
 # Amplificación Mecanoceptiva
 <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/ccbysa.png "/></a>
 
-### Autora-coordinadora M. Teresa Aliaga Vega
+### Autora-coordinadora: M. Teresa Aliaga Vega
 
-### email:aliagamaite@gmail.com
+### email: aliagamaite@gmail.com
 
 <a href="" target="_blank"><img width="225" height="250" border="0" align="center" src="img/esqueleto.jpg  "/></a>
 
-## Comunicaciones y talleres
+## Comunicaciones y talleres 
 
 ### [Comunicación libre. Jornadas de Bajo Coste. Albacete, Julio 2017](https://github.com/leobotmanuel/MecanoAmplificador#comunicaci%C3%B3n-libre-jornadas-de-bajo-coste)
 
