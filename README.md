@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Amplificación Mecanoceptiva
+<a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/ccbysa.png "/></a>
 
-You can use the [editor on GitHub](https://github.com/mecanoceptiva/mecanoceptiva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Autora-coordinadora M. Teresa Aliaga Vega
+###email:
+aliagamaite@gmail.com
+<a href="" target="_blank"><img width="600" height="450" border="0" align="center" src="img/edubasica01.jpg  "/></a>
+##Comunicaciones y talleres del proyecto Amplificación Mecanoceptiva.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Prácticas con Arduino-EduBasica](https://edubasica.github.io/manual/index.html)
 
-### Markdown
+## [Proyectos Científicos-Tecnológicos](https://github.com/leobotmanuel/ProgramandoObjetosTecnologicos/blob/master/README.md#proyectos)<a href="" target="_blank"><img width="50" height="56" border="0" align="center" src="img/obrero.gif "/></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Programa Arduino mediante código (CATEDU)](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/)
 
-```markdown
-Syntax highlighted code block
+## [Programación de Objetos Tecnológicos](https://github.com/leobotmanuel/ProgramandoObjetosTecnologicos) (en desarrollo)
 
-# Header 1
-## Header 2
-### Header 3
+## [Libro(pdf) de 4ºESO](https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0)
 
-- Bulleted
-- List
+## Autores
+[Pablo E. García](https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483).
 
-1. Numbered
-2. List
+[Manuel Hidalgo](https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b).
 
-**Bold** and _Italic_ and `Code` text
+[Jorge Luis Loza](https://es.linkedin.com/in/jorgeluisloza).
 
-[Link](url) and ![Image](src)
-```
+[Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### email: 
+practicasconarduino@gmail.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mecanoceptiva/mecanoceptiva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
